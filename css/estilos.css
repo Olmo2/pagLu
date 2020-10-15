@@ -1,3 +1,8 @@
+.text-danger{
+    color: fuchsia; !important
+}
+
+
 .carousel-item img {
     width: 30rem;
     height: 40rem;

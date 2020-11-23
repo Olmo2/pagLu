@@ -36,7 +36,7 @@
 }
 
 .btn-cian {
-    background-color: cyan !important;
+    background-color: rgba(0, 255, 255, 0.7) !important;
 }
 
 .text-cian:hover {
